@@ -1295,7 +1295,7 @@
   (symbol (lib_id "power:+3V3") (at 31.75 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 097e063e-1ec4-4394-89f3-f343d61dcb2f)
-    (property "Reference" "#PWR0167" (at 31.75 35.56 0)
+    (property "Reference" "#PWR012" (at 31.75 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 31.75 26.67 0)
@@ -1311,10 +1311,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0167") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0160") (unit 1)
+          (reference "#PWR075") (unit 1)
         )
       )
     )
@@ -1323,7 +1323,7 @@
   (symbol (lib_id "power:GND") (at 31.75 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 244b6b81-2c24-471d-be56-8001c18a3a8d)
-    (property "Reference" "#PWR0168" (at 31.75 50.8 0)
+    (property "Reference" "#PWR013" (at 31.75 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 31.75 49.53 0)
@@ -1339,10 +1339,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0168") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0161") (unit 1)
+          (reference "#PWR076") (unit 1)
         )
       )
     )
@@ -1351,7 +1351,7 @@
   (symbol (lib_id "power:GND") (at 110.49 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d36845a-d9aa-40a6-94c6-0e6ae32b4631)
-    (property "Reference" "#PWR0173" (at 110.49 129.54 0)
+    (property "Reference" "#PWR018" (at 110.49 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 110.49 128.27 0)
@@ -1367,10 +1367,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0173") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0166") (unit 1)
+          (reference "#PWR081") (unit 1)
         )
       )
     )
@@ -1379,7 +1379,7 @@
   (symbol (lib_id "power:+3V3") (at 59.69 19.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fb83900-e6e5-4a13-8eef-b3ee3c86e2c7)
-    (property "Reference" "#PWR0169" (at 59.69 22.86 0)
+    (property "Reference" "#PWR014" (at 59.69 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 59.69 13.97 0)
@@ -1395,10 +1395,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0169") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0162") (unit 1)
+          (reference "#PWR077") (unit 1)
         )
       )
     )
@@ -1407,7 +1407,7 @@
   (symbol (lib_name "CD4051BPWR4_1") (lib_id "silver-box-modular:CD4051BPWR4") (at 135.89 111.76 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 47ee5b73-e522-4476-8fb3-0db7c43c5e2b)
-    (property "Reference" "U42" (at 125.73 110.49 0)
+    (property "Reference" "U5" (at 125.73 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "CD4051BPWR4" (at 125.73 144.78 0)
@@ -1438,10 +1438,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "U42") (unit 1)
+          (reference "U5") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "U39") (unit 1)
+          (reference "U20") (unit 1)
         )
       )
     )
@@ -1450,7 +1450,7 @@
   (symbol (lib_id "Device:C_Small") (at 104.14 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68f18a28-e0d1-4e68-abfe-ac29ac6afac4)
-    (property "Reference" "C57" (at 106.68 48.2662 0)
+    (property "Reference" "C4" (at 106.68 48.2662 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 106.68 50.8062 0)
@@ -1467,10 +1467,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "C57") (unit 1)
+          (reference "C4") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "C54") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -1479,7 +1479,7 @@
   (symbol (lib_id "power:GND") (at 110.49 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 736775bc-b2e9-43b5-b87b-f7b3074e4a00)
-    (property "Reference" "#PWR0171" (at 110.49 60.96 0)
+    (property "Reference" "#PWR016" (at 110.49 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 110.49 59.69 0)
@@ -1495,10 +1495,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0171") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0164") (unit 1)
+          (reference "#PWR079") (unit 1)
         )
       )
     )
@@ -1507,7 +1507,7 @@
   (symbol (lib_id "Device:C_Small") (at 104.14 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7710a29c-47fc-4bfe-9fbe-f29ca37f7644)
-    (property "Reference" "C58" (at 106.68 116.8462 0)
+    (property "Reference" "C5" (at 106.68 116.8462 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 106.68 119.3862 0)
@@ -1524,10 +1524,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "C58") (unit 1)
+          (reference "C5") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "C55") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -1536,7 +1536,7 @@
   (symbol (lib_name "CD4051BPWR4_1") (lib_id "silver-box-modular:CD4051BPWR4") (at 135.89 43.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77a4aee9-07bd-4b72-9b6a-5ea23b6fc6c2)
-    (property "Reference" "U41" (at 125.73 41.91 0)
+    (property "Reference" "U4" (at 125.73 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "CD4051BPWR4" (at 125.73 76.2 0)
@@ -1567,10 +1567,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "U41") (unit 1)
+          (reference "U4") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "U38") (unit 1)
+          (reference "U19") (unit 1)
         )
       )
     )
@@ -1579,7 +1579,7 @@
   (symbol (lib_id "silver-box-modular:TCA9544APWR") (at 52.07 30.48 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7f5c271e-e018-4b3a-bf3f-c308359fd948)
-    (property "Reference" "U40" (at 44.45 29.21 0)
+    (property "Reference" "U3" (at 44.45 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TCA9544APWR" (at 44.45 72.39 0)
@@ -1614,10 +1614,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "U40") (unit 1)
+          (reference "U3") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "U37") (unit 1)
+          (reference "U18") (unit 1)
         )
       )
     )
@@ -1626,7 +1626,7 @@
   (symbol (lib_id "power:+3V3") (at 110.49 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7fb3d2b3-14a2-4624-a1fb-5cf76daf783d)
-    (property "Reference" "#PWR0170" (at 110.49 48.26 0)
+    (property "Reference" "#PWR015" (at 110.49 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 110.49 39.37 0)
@@ -1642,10 +1642,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0170") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0163") (unit 1)
+          (reference "#PWR078") (unit 1)
         )
       )
     )
@@ -1654,7 +1654,7 @@
   (symbol (lib_id "Device:R_Small") (at 59.69 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 86236dd2-2fb4-4495-ab61-270ee42288a1)
-    (property "Reference" "R101" (at 60.96 25.4 0)
+    (property "Reference" "R4" (at 60.96 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 60.96 27.94 0)
@@ -1671,10 +1671,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "R101") (unit 1)
+          (reference "R4") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "R97") (unit 1)
+          (reference "R48") (unit 1)
         )
       )
     )
@@ -1683,7 +1683,7 @@
   (symbol (lib_id "Device:C_Small") (at 31.75 38.1 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ff475c1-775f-4767-bc83-3863a93499f1)
-    (property "Reference" "C56" (at 30.48 36.8235 0)
+    (property "Reference" "C3" (at 30.48 36.8235 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0.1u" (at 30.48 39.3635 0)
@@ -1700,10 +1700,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "C56") (unit 1)
+          (reference "C3") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "C53") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -1712,7 +1712,7 @@
   (symbol (lib_id "Device:R_Small") (at 82.55 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b236ac1a-4136-488d-bbe0-584d66822125)
-    (property "Reference" "R104" (at 83.82 25.4 0)
+    (property "Reference" "R7" (at 83.82 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 83.82 27.94 0)
@@ -1729,10 +1729,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "R104") (unit 1)
+          (reference "R7") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "R100") (unit 1)
+          (reference "R51") (unit 1)
         )
       )
     )
@@ -1741,7 +1741,7 @@
   (symbol (lib_id "Device:R_Small") (at 67.31 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b49f38b1-9f5a-49b0-bfc0-8dce73a35029)
-    (property "Reference" "R102" (at 68.58 25.4 0)
+    (property "Reference" "R5" (at 68.58 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 68.58 27.94 0)
@@ -1758,10 +1758,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "R102") (unit 1)
+          (reference "R5") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "R98") (unit 1)
+          (reference "R49") (unit 1)
         )
       )
     )
@@ -1770,7 +1770,7 @@
   (symbol (lib_id "Device:R_Small") (at 74.93 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be6b9e4c-9df3-4a97-a169-7b45ac08d20c)
-    (property "Reference" "R103" (at 76.2 25.4 0)
+    (property "Reference" "R6" (at 76.2 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 76.2 27.94 0)
@@ -1787,10 +1787,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "R103") (unit 1)
+          (reference "R6") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "R99") (unit 1)
+          (reference "R50") (unit 1)
         )
       )
     )
@@ -1799,7 +1799,7 @@
   (symbol (lib_id "power:+3V3") (at 110.49 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d89c802e-0cf1-4aa3-8287-5cbc249b1dc4)
-    (property "Reference" "#PWR0172" (at 110.49 116.84 0)
+    (property "Reference" "#PWR017" (at 110.49 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 110.49 107.95 0)
@@ -1815,10 +1815,10 @@
     (instances
       (project "silver-box-modular"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/78762f0a-fcae-4702-a10a-b9dd07298881"
-          (reference "#PWR0172") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8/e932b456-85ac-403a-83a2-937930bf4a47"
-          (reference "#PWR0165") (unit 1)
+          (reference "#PWR080") (unit 1)
         )
       )
     )
