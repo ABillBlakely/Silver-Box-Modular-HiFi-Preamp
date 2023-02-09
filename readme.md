@@ -26,16 +26,19 @@ The project is currently in the conceptual/schematic development phase, but I ex
 
 KiCad design files will be updated here as progress is made.
 
-The current schematic is available in .pdf in the ecad folder: [ecad/silver-box-modular.pdf](ecad/silver-box-modular.pdf)
+The current schematic is available in .pdf in the __ecad__ folder: [ecad/silver-box-modular.pdf](ecad/silver-box-modular.pdf)
+
+The current 3D model for the PCB is available in .step format in the __mcad__ folder: [mcad/silver-box-modular.step](mcad/silver-box-modular.step)
 
 
 The BOM for this project is evolving and changing with the project. The current BOM can be viewed at https://octopart.com/bom-tool/pwZCTT5L but it is currently quite messy as parts are picked and substituted based on availability and changing requirements. Expect this to be cleaned up as I get closer to a prototype.
 
 Next steps:
 
-- Begin PCB layout.
+- Continue PCB layout.
 - More detailed 3D Mock-ups to help establish the PCB envelopes and refine the design.
 - Blank Modules for prototyping.
+- Synchronize/clean the Octopart BOM with the schematic.
 
 Farther out:
 
