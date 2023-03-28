@@ -35,9 +35,9 @@ The BOM for this project is evolving and changing with the project. The current 
 
 Next steps:
 
-- Continue PCB layout.
-- More detailed 3D Mock-ups to help establish the PCB envelopes and refine the design.
-- Blank Modules for prototyping.
+- Create a mechanical mock up of the assembly. Revise pcb's based on findings.
+- Put together power supply module that will be used for early development.
+- Create blank/passive modules for prototyping.
 - Synchronize/clean the Octopart BOM with the schematic.
 
 Farther out:
