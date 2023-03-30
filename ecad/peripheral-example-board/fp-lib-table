@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "silver-box-feetprints")(type "KiCad")(uri "${KIPRJMOD}/../footprints")(options "")(descr ""))
+  (lib (name "feetprints")(type "KiCad")(uri "C:/Users/boxca/Google Drive/Projects/kicad-libs-custom/feetprints.pretty")(options "")(descr ""))
+)
