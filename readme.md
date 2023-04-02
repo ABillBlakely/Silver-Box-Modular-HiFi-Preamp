@@ -18,7 +18,11 @@ The chassis provides each peripheral with:
 
 The project is currently in the conceptual/schematic development phase, but I expect to begin prototyping early in 2023.
 
-# Concept sketches:
+# Concept sketches/renders:
+
+![](docs/i/prototype_render_front.png)
+
+![](docs/i/prototype_render_quarter.png)
 
 ![](sketches/concept_sketches_2023.02.01.png)
 
@@ -26,16 +30,28 @@ The project is currently in the conceptual/schematic development phase, but I ex
 
 KiCad design files will be updated here as progress is made.
 
-The current schematic is available in .pdf in the __ecad__ folder: [ecad/silver-box-modular.pdf](ecad/silver-box-modular.pdf)
+The current schematics are available in .pdf in the __ecad__ folder:
 
-The current 3D model for the PCB is available in .step format in the __mcad__ folder: [mcad/silver-box-modular.step](mcad/silver-box-modular.step)
+- [ecad/motherboard.pdf](ecad/motherboard.pdf)
+- [ecad/controlboard.pdf](ecad/controlboard.pdf)
+- [ecad/peripheral-example-board.pdf](ecad/peripheral-example-board.pdf)
+
+The current 3D models/assemblies for the project are available in .step format in the __mcad__ folder:
+
+- [mcad/silver-box-modular_assembly.step](mcad/silver-box-modular_assembly.step)
+- [mcad/motherboard.step](mcad/motherboard.step)
+- [mcad/controlboard.step](mcad/controlboard.step)
+- [mcad/peripheral-example-board.step](mcad/peripheral-example-board.step)
+
 
 
 The BOM for this project is evolving and changing with the project. The current BOM can be viewed at https://octopart.com/bom-tool/pwZCTT5L but it is currently quite messy as parts are picked and substituted based on availability and changing requirements. Expect this to be cleaned up as I get closer to a prototype.
 
 Next steps:
 
-- Create a mechanical mock up of the assembly. Revise pcb's based on findings.
+- Final review and production of prototype PCB's.
+- Document the mcad model and explain key features.
+- Organize and refine the 3d prints that will be required for the prototype.
 - Put together power supply module that will be used for early development.
 - Create blank/passive modules for prototyping.
 - Synchronize/clean the Octopart BOM with the schematic.
