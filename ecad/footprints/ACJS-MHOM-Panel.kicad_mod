@@ -24,14 +24,9 @@
   (fp_circle (center 0 0) (end 5.08 -0.508)
     (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp 85778a37-7d59-4948-9709-1aaccd11c8fa))
   (pad "" np_thru_hole circle (at 0 0) (size 10.0076 10.0076) (drill 10.0076) (layers "*.Mask") (tstamp fdc6871e-a4ce-4c6e-8c07-24bb694cf2e9))
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/ACJS-MHOM.step"
+  (model "../../mcad/ACJS-MHOM.step"
     (offset (xyz 0 0 -2.413))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/ACJS-MHOM.wrl"
-    (offset (xyz 0 0 -2.413))
-    (scale (xyz 0.394 0.394 0.394))
     (rotate (xyz 0 0 0))
   )
 )

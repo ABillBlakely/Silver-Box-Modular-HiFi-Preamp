@@ -28,9 +28,4 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "../../mcad/19-C47 RSGHBHC-5V01 2T.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 0.394 0.394 0.394))
-    (rotate (xyz 0 0 0))
-  )
 )

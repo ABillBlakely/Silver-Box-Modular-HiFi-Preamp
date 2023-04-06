@@ -51,14 +51,9 @@
   (pad "1" thru_hole circle (at -3.75 11) (size 1.75 1.75) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 9d4d0984-2a79-43de-85f0-7c024d1392b0))
   (pad "2" thru_hole circle (at -1.25 11) (size 1.75 1.75) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 968ae629-a59c-4aa8-917c-5d81a362d5c0))
   (pad "3" thru_hole circle (at 1.25 11) (size 1.75 1.75) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 79e4f1f9-cab5-4e59-9f7d-3a3f04483737))
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/bourns PTV111-4425A.step"
+  (model "../../mcad/bourns PTV111-4425A.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/bourns PTV111-4425A.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 0.394 0.394 0.394))
     (rotate (xyz 0 0 0))
   )
 )

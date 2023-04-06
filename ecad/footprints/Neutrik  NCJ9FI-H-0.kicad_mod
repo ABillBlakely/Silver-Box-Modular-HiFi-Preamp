@@ -28,14 +28,9 @@
   (pad "SS" thru_hole circle (at 3 14.5) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp d4f0fb17-fe41-45c6-8333-4b3f6bde7023))
   (pad "T" thru_hole circle (at 9.2 25) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp ee0c0426-92d2-471d-8907-4f5750285160))
   (pad "TS" thru_hole circle (at 3 25) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp ab01dcc0-276b-4634-9949-b3519ec3df30))
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/Neutrik ncj9fi-h-0.step"
+  (model "../../mcad/Neutrik ncj9fi-h-0.step"
     (offset (xyz 0 0 15))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
-  )
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/Neutrik ncj9fi-h-0.wrl"
-    (offset (xyz 0 0 15))
-    (scale (xyz 0.394 0.394 0.394))
     (rotate (xyz -90 0 180))
   )
 )

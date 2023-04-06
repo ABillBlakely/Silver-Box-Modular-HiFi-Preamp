@@ -36,11 +36,6 @@
   (pad "6" smd rect (at 1.27 -2.7) (size 0.6 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5325d246-5b07-4b0c-972f-84550c0e18e9))
   (pad "7" smd rect (at -1.27 -2.7) (size 0.6 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5325d246-5b07-4b0c-972f-84550c0e18e9))
   (pad "8" smd rect (at -3.81 -2.7) (size 0.6 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5325d246-5b07-4b0c-972f-84550c0e18e9))
-  (model "../../mcad/TLP4026G.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 0.394 0.394 0.394))
-    (rotate (xyz 0 0 0))
-  )
   (model "../../mcad/TLP4026G.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

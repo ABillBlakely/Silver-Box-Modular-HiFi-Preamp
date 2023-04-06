@@ -127,14 +127,9 @@
   (pad "36" thru_hole circle (at -18.04 -11.4) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 108df987-1436-4405-83d9-dde46f9b4d2b))
   (pad "37" thru_hole circle (at -20.58 -11.4) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ee4fd6b3-c84f-4533-9846-01f0a1819cff))
   (pad "38" thru_hole circle (at -23.12 -11.4) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 25ab50bf-9903-4a9b-b10e-7156baeace57))
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/NodeMCU ESP-32S.step" hide
+  (model "../../mcad/NodeMCU ESP-32S.step"
     (offset (xyz -23.1 -11.5 -3.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
-  )
-  (model "C:/Users/boxca/Google Drive/Projects/silver-box-modular/mcad/NodeMCU ESP-32S.wrl"
-    (offset (xyz -23.1 -11.5 -3.5))
-    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 -90))
   )
 )

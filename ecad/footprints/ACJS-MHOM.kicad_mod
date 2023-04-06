@@ -46,11 +46,6 @@
     (zone_connect 1) (tstamp e3391fa9-66ec-481b-9c84-ce3815cde186))
   (pad "TN" thru_hole circle (at -17.4498 4.191) (size 2.794 2.794) (drill 1.5494) (layers "*.Cu" "*.Mask")
     (zone_connect 1) (tstamp 4261d60f-f13a-4010-b9c1-2b15cba8faca))
-  (model "../../mcad/ACJS-MHOM.wrl" hide
-    (offset (xyz -0.508 -0 6.5024))
-    (scale (xyz 0.394 0.394 0.394))
-    (rotate (xyz 90 180 90))
-  )
   (model "../../mcad/ACJS-MHOM.step"
     (offset (xyz -0.508 0 6.5024))
     (scale (xyz 1 1 1))

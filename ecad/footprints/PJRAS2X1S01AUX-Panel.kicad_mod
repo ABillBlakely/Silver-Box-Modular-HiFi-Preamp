@@ -41,9 +41,4 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "../../mcad/pjras2x1s_series.wrl"
-    (offset (xyz -0.7366 6.5278 -2.0066))
-    (scale (xyz 0.394 0.394 0.394))
-    (rotate (xyz -90 0 0))
-  )
 )
