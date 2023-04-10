@@ -23,6 +23,8 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 6a6f37dd-58fa-49ad-b6ee-5565bed68276))
   (fp_circle (center 0 0) (end 5.08 -0.508)
     (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp 85778a37-7d59-4948-9709-1aaccd11c8fa))
+  (fp_rect (start -6.5 -6.25) (end 9.4 6.6)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp f64a48d7-35a5-4c50-913d-b25d55957d1e))
   (pad "" np_thru_hole circle (at 0 0) (size 10.0076 10.0076) (drill 10.0076) (layers "*.Mask") (tstamp fdc6871e-a4ce-4c6e-8c07-24bb694cf2e9))
   (model "../../mcad/ACJS-MHOM.step"
     (offset (xyz 0 0 -2.413))

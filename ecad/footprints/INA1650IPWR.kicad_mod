@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "INA1650IPWR High Common-Mode Rejection Line Receivers")
   (tags "INA1650IPWR 14TSSOP")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -3.625 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 53c86dd9-3e8b-4ced-87c2-2c8c77a8ce22)

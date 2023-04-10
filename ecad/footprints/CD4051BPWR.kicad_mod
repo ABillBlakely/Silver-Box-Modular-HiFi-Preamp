@@ -1,7 +1,7 @@
 (footprint "CD4051BPWR" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "IC MUX/DEMUX 8X1 16TSSOP")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -4 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 86c970ef-bb37-4df6-a5a5-7e9989dd47d4)

@@ -1,7 +1,7 @@
 (footprint "OPA1632D" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Fully Differential I/O Audio Amplifier SOIC")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -3.705 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 56541aad-43ad-40b9-a0ff-594820cdc325)

@@ -1,7 +1,7 @@
 (footprint "TCA9544AAPWR" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "4-channel 1.65- to 5.5-V I2C/SMBus multiplexer with interrupt & voltage translation TSSOP20")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -4.65 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fa240575-1390-423a-ba07-ee972693ff0b)

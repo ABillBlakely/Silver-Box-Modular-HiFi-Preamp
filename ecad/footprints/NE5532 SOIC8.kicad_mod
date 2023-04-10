@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "NE5532 SOIC8")
   (tags "NE5532 SOIC8")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -3.705 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3baeae9b-5002-414a-aeb4-179076e5d45d)

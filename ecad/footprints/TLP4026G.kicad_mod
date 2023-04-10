@@ -1,7 +1,7 @@
 (footprint "TLP4026G" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "RELAY SPST-NO/NC 120MA 0-350V")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -5.61 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 474a0160-bfa8-4737-a027-7972ed86797b)

@@ -1,7 +1,7 @@
 (footprint "PCA8575PW" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "I/O EXPANDER I2C 16B 24TSSOP")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -5.275 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9acee557-d6c9-4c3a-a805-f92aaa012089)
